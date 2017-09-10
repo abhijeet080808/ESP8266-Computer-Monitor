@@ -18,7 +18,7 @@ The ESP-12E uses periodic ICMP pings to determine if the computer is up. On star
 
 ## Dependencies
 
-  1. [ESP8266 Arduino Core](https://github.com/esp8266/Arduino) - Install in Arduino IDE by going to `Sketch -> Include Library -> Manage Library`.
+  1. [ESP8266 Arduino Core](https://github.com/esp8266/Arduino) - Install in Arduino IDE by going to `Preferences` and adding `http://arduino.esp8266.com/stable/package_esp8266com_index.json` in `Additional Board Manager URLs` field and then installing the pacakge by going to `Sketch -> Include Library -> Manage Library`. More details [here](http://esp8266.github.io/Arduino/versions/2.3.0/doc/installing.html).
   2. [TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Install in Arduino IDE by going to `Sketch -> Include Library -> Manage Library`.
   3. [ESP8266Ping](https://github.com/dancol90/ESP8266Ping) - Download the [ZIP file](https://github.com/dancol90/ESP8266Ping/archive/master.zip) and install in Arduino IDE by going to `Sketch -> Include Library -> Add .ZIP Library`.
 
