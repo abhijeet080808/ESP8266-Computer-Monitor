@@ -5,7 +5,7 @@ ESP8266 Arduino sketch to monitor Computer reachability
 
 The Arduino [sketch](https://www.arduino.cc/en/Reference/HomePage) is intended to run on a [ESP8266](http://espressif.com/en/products/hardware/esp8266ex/overview) based [ESP-12E](https://github.com/nodemcu/nodemcu-devkit-v1.0) board.
 
-There are 3 components in this project:
+There are 3 components in this project -
   1. Computer that we want to monitor
   2. ESP-12E board
   3. IFTTT enabled smart switch (Eg. [D-Link Smart Plug](https://ifttt.com/dlink_smart_plug)) that is used to power both the computer and the ESP-12E board.
