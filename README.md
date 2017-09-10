@@ -1,5 +1,5 @@
 # ESP8266-Computer-Monitor
-ESP8266 Arduino sketch to monitor Computer reachablility
+ESP8266 Arduino sketch to monitor Computer reachability
 
 ## Introduction
 
