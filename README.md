@@ -1,4 +1,4 @@
-# ESP8266ComputerMonitor
+# ESP8266 Computer Monitor
 ESP8266 Arduino sketch to monitor Computer reachability
 
 ## Introduction
@@ -33,6 +33,6 @@ Configure the sketch to suit the run environment. Parameters that must be config
  6. `CONTROL_SERVER`
  7. `OFF_URL`
 
-## Some useful links
+## Useful Links
   - https://www.arduino.cc/en/Reference/HomePage
   - http://esp8266.github.io/Arduino/versions/2.3.0/doc/libraries.html
